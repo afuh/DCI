@@ -8,5 +8,5 @@
 - [CSS Box Model](https://github.com/afuh/DCI/blob/master/CSS/07.09.2017.md)
 
 ## Week 2
-- Recap & [Task](https://github.com/afuh/DCI/blob/master/CSS/11.09.2017.md)
-- [Unique positioning](https://github.com/afuh/DCI/blob/master/CSS/12.09.2017.md) (Relative and Absolute)
+- [Recap & Task](https://github.com/afuh/DCI/blob/master/CSS/11.09.2017.md)
+- [Positioning & Text](https://github.com/afuh/DCI/blob/master/CSS/12.09.2017.md)
