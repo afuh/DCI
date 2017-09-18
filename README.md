@@ -12,3 +12,6 @@
 - [Positioning & Text](https://github.com/afuh/DCI/blob/master/HTML-CSS/12.09.2017.md)
 - [Icons Font & Background](https://github.com/afuh/DCI/blob/master/HTML-CSS/13.09.2017.md)
 - [HTML Forms](https://github.com/afuh/DCI/blob/master/HTML-CSS/14.09.2017.md)
+
+## Week 3 - HTML & CSS
+- Recap & [Live server](https://github.com/tapio/live-server) installation
