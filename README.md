@@ -14,4 +14,4 @@
 - [HTML Forms](https://github.com/afuh/DCI/blob/master/HTML-CSS/14.09.2017.md)
 
 ## Week 3 - HTML & CSS
-- Recap & [Live server](https://github.com/tapio/live-server) installation
+- [Recap & Live server installation](https://github.com/afuh/DCI/blob/master/HTML-CSS/18.09.2017.md) 
