@@ -1,5 +1,5 @@
 # DCI Curriculum
-*All the content of this curriculum was teached by [Dominik Hanke](https://github.com/noreading)*
+*All the content of this curriculum is teached by [Dominik Hanke](https://github.com/noreading)*
 
 ## Week 1 - HTML & CSS
 - [Basic HTML](https://github.com/afuh/DCI/blob/master/HTML-CSS/04.09.2017.md)
@@ -14,4 +14,5 @@
 - [HTML Forms](https://github.com/afuh/DCI/blob/master/HTML-CSS/14.09.2017.md)
 
 ## Week 3 - HTML & CSS
-- [Recap & Live server installation](https://github.com/afuh/DCI/blob/master/HTML-CSS/18.09.2017.md) 
+- [Recap & Live server installation](https://github.com/afuh/DCI/blob/master/HTML-CSS/18.09.2017.md)
+- [Complex CSS selectors](https://github.com/afuh/DCI/blob/master/HTML-CSS/19.09.2017.md)
